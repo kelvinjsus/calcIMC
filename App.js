@@ -38,7 +38,7 @@ export default function app() {
         style={styles.input}
         onChangeText={onChangePeso}
         value={peso}
-        placeholder="Peso (KG)"
+        placeholder="Peso (kg)"
         keyboardType="numeric"
       />
 
@@ -46,7 +46,7 @@ export default function app() {
         style={styles.input}
         onChangeText={onChangeAltura}
         value={altura}
-        placeholder="Altura (M)"
+        placeholder="Altura (m)"
         keyboardType="numeric"
       />
       <Text style={styles.result}>
