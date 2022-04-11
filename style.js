@@ -6,7 +6,6 @@ export default StyleSheet.create({
     flex: 1,
     backgroundColor: '#f3f3f3',
     alignItems: 'center',
-    // justifyContent: 'center'
   },
   title: {
     paddingBottom: 30,
